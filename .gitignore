@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# API Key
+.env

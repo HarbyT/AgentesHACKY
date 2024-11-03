@@ -1,0 +1,17 @@
+# Biblioteca de OpenAI para interactuar con el LLM
+openai==0.27.0  
+
+# Biblioteca para hacer solicitudes HTTP a la API de Laravel
+requests==2.31.0  
+
+# Swarm, asegúrate de tener la versión que estás usando o instálalo desde el repositorio si no está en PyPI
+# Nota: reemplaza con la versión específica si conoces la que estás utilizando o si Swarm se encuentra en GitHub
+# swarm==x.x.x  
+
+# Opcional: Si vas a usar NLP y embeddings avanzados
+spacy==3.5.1  
+scikit-learn==1.2.2  
+
+# Opcional: para embeddings adicionales (si decides usarlos)
+# transformers==4.27.4  # Para usar modelos de Hugging Face
+# sentence-transformers==2.2.2  # Para modelos de embeddings preentrenados
